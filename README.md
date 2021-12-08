@@ -6,6 +6,6 @@ This repo contains Policy's that is working or in the works and might need help 
 
 ## Contributors
 <a href="https://github.com/jantorep/CustomAzurePolicys/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jantorep/CustomAzurePolicyse" />
+  <img src="https://contrib.rocks/image?repo=jantorep/CustomAzurePolicys" />
 </a>
 
