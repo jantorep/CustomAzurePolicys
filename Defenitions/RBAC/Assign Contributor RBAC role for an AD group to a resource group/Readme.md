@@ -4,7 +4,7 @@ This policy defenition will add Contributor access for a specified AD Group to a
 
 Import the json text to a new defenition and assign it to a Management Group or Subscription.
 
-#Parameters
+# Parameters
 
 Fill in the information needed
 
@@ -18,7 +18,7 @@ Tag Value is the last part of the tag.
 Azure AD Group Object ID is the object id of the AAD Group that you want to give contributor rights to.
 
 
-#Customizing the template
+# Customizing the template
 
 If you want to change the template there are parts you can change.
 
