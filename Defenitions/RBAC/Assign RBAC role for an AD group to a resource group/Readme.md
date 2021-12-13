@@ -8,7 +8,7 @@ Import the json text to a new defenition and assign it to a Management Group or 
 
 Fill in the information needed
 
-![Parameters](https://github.com/jantorep/CustomAzurePolicys/blob/main/Defenitions/RBAC/Assign%20Contributor%20RBAC%20role%20for%20an%20AD%20group%20to%20a%20resource%20group/parameters.jpg)
+![Parameters](https://github.com/jantorep/CustomAzurePolicys/blob/main/Defenitions/RBAC/Assign%20RBAC%20role%20for%20an%20AD%20group%20to%20a%20resource%20group/parameters.jpg)
 
 The Parameter Values should be self explanatory but
 
@@ -23,6 +23,6 @@ If you want to change the template there are parts you can change.
 
 Roledefenition for the managed identity can be changed on line 51 by changing the GUID, right now it's owner. Or you can also edit the policy in the GUI and change it when editing the policy defenition.
 
-![Parameters](https://github.com/jantorep/CustomAzurePolicys/blob/main/Defenitions/RBAC/Assign%20Contributor%20RBAC%20role%20for%20an%20AD%20group%20to%20a%20resource%20group/parameters1.jpg)
+![Parameters](https://github.com/jantorep/CustomAzurePolicys/blob/main/Defenitions/RBAC/Assign%20RBAC%20role%20for%20an%20AD%20group%20to%20a%20resource%20group/parameters1.jpg)
 
 Changing the role the AAD Group get's can be done on line 57 and 81 by changing the GUID at the end.
